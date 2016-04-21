@@ -178,6 +178,10 @@ div.au-stagger {
       display: none;
     }
 
+    .mh {
+      background-image: url("https://pixabay.com/static/uploads/photo/2015/02/24/02/05/website-647013_960_720.jpg");
+    }
+    
     .masthead.segment {
       min-height: 700px;
       padding: 1em 0em;

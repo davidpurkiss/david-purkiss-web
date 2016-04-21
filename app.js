@@ -56,6 +56,6 @@ app.use(function(err, req, res, next) {
   });
 });
 
-app.use(express.static('public'));
+app.listen(80);
 
 module.exports = app;
